@@ -20,25 +20,23 @@
 
 ## Installation
 
-From your Hugo site folder, clone the theme into `themes/hugo-theme-stack` by running :
 ```
-git clone https://github.com/CaiJimmy/hugo-theme-stack.git themes/hugo-theme-stack
 ```
 
 ## About
 
-This is a fork of the Hugo theme [Stack](https://themes.gohugo.io/hugo-theme-stack/) by [Jimmy](https://github.com/CaiJimmy/).
+This is my second attempt at a hugo-netlify static site.
 
 ## Changelog
 
 > Version 0.0
 
-- Installed theme to repo on 01/11/21
+- Installed theme to repo on 03/10/21
 
 ## To Do
 
-- [x] Install theme
-- [ ] Setup Netlify
+- [x] Install new theme
+- [ ] Setup Netlify (fix)
 - [ ] Setup Forestry
 - [ ] Publish first blog post
 
