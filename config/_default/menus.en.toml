@@ -5,15 +5,15 @@
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "Archive"
-  url = "archive"
+  identifier = "archives"
+  name = "Archives"
+  url = "archives"
   weight = 2
 
 [[main]]
-  identifier = "presentation"
-  name = "Pt"
-  url = "presentation"
+  identifier = "presentations"
+  name = "Presentations"
+  url = "presentations"
   weight = 3
 
 [[main]]
@@ -24,13 +24,13 @@
     
 [[main]]
   parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
+  name = "Illustrations"
+  url = "gallery/illustrations"
 
 [[main]]
   parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
+  name = "Photography"
+  url = "gallery/photography"
 
 [[main]]
   identifier = "posts"
@@ -39,13 +39,13 @@
   weight = 5
 
 [[main]]
-  identifier = "showcase"
-  name = "Showcase"
-  url = "showcase"
+  identifier = "projects"
+  name = "Projects"
+  url = "projects"
   weight = 6
 
 [[main]]
-  identifier = "publication"
-  name = "Pub"
-  url = "publication"
+  identifier = "reviews"
+  name = "Reviews"
+  url = "reviews"
   weight = 7

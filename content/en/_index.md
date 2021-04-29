@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - meowgix
     subtitle:
-      - The world’s fastest framework for building websites
+      - The blog of a magical cat goddess.
     titleColor: 
     titleShadow: true
     titleFontSize: 44
