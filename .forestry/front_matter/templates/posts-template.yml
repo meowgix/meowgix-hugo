@@ -1,0 +1,43 @@
+---
+label: Posts Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: hideToc
+  label: hideToc
+- type: boolean
+  name: enableToc
+  label: enableToc
+- type: boolean
+  name: enableTocContent
+  label: enableTocContent
+- type: text
+  name: tocPosition
+  label: tocPosition
+- type: text
+  name: author
+  label: author
+- type: text
+  name: authorEmoji
+  label: authorEmoji
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: series
+  label: series
+- type: file
+  name: image
+  label: image
