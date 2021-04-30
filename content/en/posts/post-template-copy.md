@@ -1,9 +1,9 @@
 +++
 author = "meowgix"
 authorEmoji = "😸"
-categories = [nil]
+categories = ["blog"]
 date = 2021-04-29T15:06:00Z
-description = "Template for my blog posts"
+description = "Beginning my blog for documenting my progress."
 enableToc = true
 enableTocContent = true
 hideToc = false
