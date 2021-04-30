@@ -14,15 +14,15 @@ title = "Giving and Taking"
 tocPosition = "outer"
 
 +++
-Day # 001
+Day #1
 
-This is my first blog/daily log.
+This is my first blog/daily log of my progress. I'm super nervous, but I hope it turns out well!
 
-# **Real Life**
+Real Life
 
 ***
 
-### Professional Development
+Professional Development
 
 Study Log:
 
@@ -33,7 +33,7 @@ Code:  Worked on cleaning up this blog (using an example theme).
 
 Work:
 
-### Personal Development
+Personal Development
 
 Piano:
 
@@ -41,12 +41,12 @@ Drawing:
 
 Health:  Logged my meals for the day, but no exercise.
 
-# **Virtual Life**
+Virtual Life
 
 ***
 
 Games:  No energy to play any games today.
 
-### Next Steps
+Next Steps
 
 Tomorrow I want to spend time studying for my upcoming exam (rescheduled). I also hope to balance my time better, stay off of social media, and play at least one game.
