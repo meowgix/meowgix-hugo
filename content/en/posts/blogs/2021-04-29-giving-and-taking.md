@@ -8,8 +8,8 @@ enableToc = true
 enableTocContent = true
 hideToc = false
 image = ""
-series = []
-tags = [nil]
+series = ""
+tags = ""
 title = "Giving and Taking"
 tocPosition = "outer"
 
