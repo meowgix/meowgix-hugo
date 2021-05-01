@@ -24,14 +24,14 @@ tocPosition = "outer"
 
 #### Professional Development
 
-- Study:
+- `Study:` D204 Exam
 ```:Log
     Hours today: 0h
     Hours total: 0h
 ```
 - Code:  Worked on cleaning up this blog (using an example theme).
 
-- Work:
+- `Work:` N/A
 
 #### Personal Development
 
