@@ -24,28 +24,30 @@ tocPosition = "outer"
 
 #### Professional Development
 
-- `Study:` D204 Exam
+- **Study:** D204 Exam
 ```:Log
     Hours today: 0h
     Hours total: 0h
 ```
-- Code:  Worked on cleaning up this blog (using an example theme).
+- **Code:**  Worked on cleaning up this blog (using an example theme).
 
-- `Work:` N/A
+- **Work:** N/A
 
 #### Personal Development
 
-- Piano:
+- **Piano:** N/A
 
-- Drawing:
+- **Art:** N/A
 
-- Health:  Logged my meals for the day, but no exercise.
+- **Health:**  Logged my meals for the day, but no exercise.
+
+
 
 ### 👽 Virtual Life
 
 ***
 
-- Games:  No energy to play any games today.
+- **Games:**  No energy to play any games today.
 
 #### Next Steps
 
