@@ -12,7 +12,7 @@
 
 ********************
 
-![meowgix-logo](/images/meowgix-logo.png)
+![meowgix-logo](/images/meowgix-logo.svg)
 
 ********************
 
