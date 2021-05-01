@@ -24,19 +24,20 @@ tocPosition = "outer"
 
 #### Professional Development
 
-* **\[Study\]**  D204 Exam
-
+* **\[Study\]:**  D204 Exam
+```
     Hours today: 0h
     Hours total: 0h
-
-* **\[Code\]**  Successfully got the first post to show up on the website. Also working on breaking down the theme `.scss` files in order to edit them.
-* **\[Work\]**  N/A
+```
+* **\[Code\]:**  Successfully got the first post to show up on the website. Also working on breaking down the theme `.scss` files in order to edit them.
+* **\[Work\]:**  N/A
 
 #### Personal Development
 
-* **\[Piano\]**  Played a few songs for the first time in a while. It was nice.
-* **\[Art\]**  Finished reading "Lesson 0" from [drawabox](https:\\drawabox.com)
-* **\[Health\]**  Logged my meals for the day and took a short walk. Didn't meet my step goal though.
+* **\[Piano\]:**  Played a few songs for the first time in a while. It was nice.
+* **\[Art\]:**  Finished reading "Lesson 0" from [drawabox](https:\\drawabox.com)
+* **\[Health\]:**  Logged my meals for the day and took a short walk. Didn't meet my step goal though.
+
 .  
 .  
 .
@@ -45,7 +46,7 @@ tocPosition = "outer"
 
 ***
 
-* **\[Games\]**  Still no capacity for gaming right now.
+* **\[Games\]:**  Still no capacity for gaming right now.
 
 #### Next Steps
 
