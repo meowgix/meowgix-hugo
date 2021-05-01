@@ -25,7 +25,7 @@ tocPosition = "outer"
 #### Professional Development
 
 - **Study:** D204 Exam
-```:Log
+```
     Hours today: 0h
     Hours total: 0h
 ```
