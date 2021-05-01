@@ -45,7 +45,7 @@ tocPosition = "outer"
 
 ***
 
-* **Games:**  Still no capacity for gaming right now.
+* **\[Games\]**  Still no capacity for gaming right now.
 
 #### Next Steps
 
