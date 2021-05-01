@@ -10,43 +10,43 @@ hideToc = false
 image = ""
 series = ""
 tags = ""
-title = "Giving and Taking"
+title = "Given or Taken"
 tocPosition = "outer"
 
 +++
-Day #1
+## Day #1
 
-This is my first blog/daily log of my progress. I'm super nervous, but I hope it turns out well!
+> This is my first blog/daily log of my progress. I'm super nervous, but I hope it turns out well!
 
-Real Life
+### 🌱 Real Life
 
 ***
 
-Professional Development
+#### Professional Development
 
-Study Log:
-
+- Study:
+```:Log
     Hours today: 0h
     Hours total: 0h
+```
+- Code:  Worked on cleaning up this blog (using an example theme).
 
-Code:  Worked on cleaning up this blog (using an example theme).
+- Work:
 
-Work:
+#### Personal Development
 
-Personal Development
+- Piano:
 
-Piano:
+- Drawing:
 
-Drawing:
+- Health:  Logged my meals for the day, but no exercise.
 
-Health:  Logged my meals for the day, but no exercise.
-
-Virtual Life
+### 👽 Virtual Life
 
 ***
 
-Games:  No energy to play any games today.
+- Games:  No energy to play any games today.
 
-Next Steps
+#### Next Steps
 
-Tomorrow I want to spend time studying for my upcoming exam (rescheduled). I also hope to balance my time better, stay off of social media, and play at least one game.
+> Tomorrow I want to spend time studying for my upcoming exam (rescheduled). I also hope to balance my time better, stay off of social media, and play at least one game.
