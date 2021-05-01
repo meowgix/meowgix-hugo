@@ -12,11 +12,11 @@
 
 ********************
 
-![meowgix-logo](/images/meowgix-logo.svg)
+![meowgix-logo](/images/meowgix-logo.png)
 
 ********************
 
-<p align="center"><b><a href="https://meowgix.com/">meowgix</a></b></p>
+<p align="center"><b><a href="https://meowgix.com/">blog</a></b></p>
 
 ## Installation
 
@@ -32,12 +32,14 @@ This is my second attempt at a hugo-netlify static site.
 > Version 0.0
 
 - Installed theme to repo on 03/10/21
+- Fixed Netlify/forestry.io configuration issues 04/29/21 
 
 ## To Do
 
 - [x] Install new theme
-- [ ] Setup Netlify (fix)
-- [ ] Setup Forestry
-- [ ] Publish first blog post
-
+- [x] Setup Netlify (fix)
+- [x] Setup Forestry
+- [x] Publish first blog post
+- [ ] Create custom scss themes
+- [ ] Tweak website layout
 
