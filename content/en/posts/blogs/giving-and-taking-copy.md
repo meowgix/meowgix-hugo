@@ -14,16 +14,13 @@ title = "Dazed Dazed Dazed"
 tocPosition = "outer"
 
 +++
-# Day #2
+## Day #2
 
 > This is the second blog. I'm still figuring many things out, but as I get it together, I also get side-tracked. Oops.
-
-### Real Life
-
 ***
-
+### 🌱 Real Life
 #### Professional Development
-
+***
 **Study:**  D204 Exam
 ```
 Hours today: 0h
@@ -34,17 +31,15 @@ Hours total: 0h
 **Work:**  N/A
 
 #### Personal Development
-
+***
 **Piano:**  Played a few songs for the first time in a while. It was nice.
 
 **Art:**  Finished reading "Lesson 0" from [drawabox](https:\\drawabox.com)
 
 **Health:**  Logged my meals for the day and took a short walk. Didn't meet my step goal though.
 
-### Virtual Life
-
+### 👽 Virtual Life
 ***
-
 **Games:**  Still no capacity for gaming right now.
 
 #### Next Steps
