@@ -2,9 +2,8 @@
 author = "meowgix"
 authorEmoji = "😸"
 categories = ["blog"]
-date = 2021-05-01T03:20:13Z
-description = "Another day, another blog."
-draft = true
+date = 2021-05-02T03:20:13Z
+description = "Third day... Still working on figuring out a template."
 enableToc = true
 enableTocContent = true
 hideToc = false
@@ -12,12 +11,12 @@ image = ""
 series = ""
 tags = ""
 title = "Mixed Up"
-tocPosition = "outer"
+tocPosition = "inner"
 
 +++
-## Day #2
+## Day #3
 
-> This is the second blog. I'm still figuring many things out, but as I get it together, I also get side-tracked. Oops.
+> Today was okay. Could be better.
 
 ### 🌱 Real Life
 
@@ -25,26 +24,26 @@ tocPosition = "outer"
 
 #### Professional Development
 
-* **Study:**  D204 Exam
+* **Study:**  At this point I am definitely procrastinating from fear/test anxiety which is unusual for me... D204 Exam
 
         Hours today: 0h
         Hours total: 0h
-
-* **Code:**  Successfully got the first post to show up on the website. Also working on breaking down the theme `.scss` files in order to edit them.
+* **Code:**  Watched a few videos to solidify my understanding of Hugo. Didn't bother much with `.scss` work.
 * **Work:**  N/A
 
 #### Personal Development
 
-* **Piano:**  Played a few songs for the first time in a while. It was nice.
-* **Art:**  Finished reading "Lesson 0" from [Draw A Box.](https:\\drawabox.com)
-* **Health:**  Logged my meals for the day and took a short walk. Didn't meet my step goal though.
+* **Piano:**  Played all the book songs in my songs list.
+* **Art:**  N/A
+* **Health:**  Logged my meals for the day and took a walk around noon. That was different for me.
 
 ### 👽 Virtual Life
 
 ***
 
 * **Games:**  Still no capacity for gaming right now.
+* **K-Variety:**  Watched the new Friends episode and went back to watch first two episodes of Heart Signal 2.
 
 #### Next Steps
 
-> Tomorrow I want to _actually_ spend time studying for my upcoming exam (rescheduled). I also hope to balance my time better, limit my social media use, and watch the new episode of Friends (Korean Heart Signal spinoff).
+> Tomorrow I want to _actually_ spend time studying for my upcoming exam (rescheduled - again). I also hope to balance my time better and limit my social media use.
