@@ -2,20 +2,19 @@
 author = "meowgix"
 authorEmoji = "😸"
 categories = ["blog"]
-date = 2021-05-02T03:20:13Z
-description = "Third day... Still working on figuring out a template."
-draft = true
+date = 2021-05-03T03:20:13Z
+description = "Fourth day, uploading late."
 enableToc = true
 enableTocContent = true
 hideToc = false
 image = ""
 series = ""
 tags = ""
-title = "Mixed Up-(copy)"
+title = "This is difficult."
 tocPosition = "inner"
 
 +++
-## Day #3
+## Day #4
 
 > Today was okay. Could be better.
 
@@ -25,25 +24,25 @@ tocPosition = "inner"
 
 #### Professional Development
 
-* **Study:**  At this point I am definitely procrastinating from fear/test anxiety which is unusual for me... D204 Exam
+* **Study:**  D204 Exam
 
         Hours today: 0h
         Hours total: 0h
-* **Code:**  Watched a few videos to solidify my understanding of Hugo. Didn't bother much with `.scss` work.
+* **Code:**  N/A
 * **Work:**  N/A
 
 #### Personal Development
 
-* **Piano:**  Played all the book songs in my songs list.
+* **Piano:**  Played all the book songs in my songs list and worked on beginning of one new song.
 * **Art:**  N/A
-* **Health:**  Logged my meals for the day and took a walk around noon. That was different for me.
+* **Health:**  Went for a walk in the morning. Logged meals but did not stick to calorie budget.
 
 ### 👽 Virtual Life
 
 ***
 
 * **Games:**  Still no capacity for gaming right now.
-* **K-Variety:**  Watched the new Friends episode and went back to watch first two episodes of Heart Signal 2.
+* **K-Variety:**  Continue watching Heart Signal 2, but maybe that's a bad decision?
 
 #### Next Steps
 
