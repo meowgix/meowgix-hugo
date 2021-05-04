@@ -2,9 +2,8 @@
 author = "meowgix"
 authorEmoji = "😸"
 categories = ["blog"]
-date = 2021-05-03T03:20:13Z
+date = 2021-05-04T04:00:00Z
 description = "Fourth day, uploading late."
-draft = true
 enableToc = true
 enableTocContent = true
 hideToc = false
@@ -15,9 +14,9 @@ title = "ENHYPEN - First Win"
 tocPosition = "inner"
 
 +++
-## Day #4
+## Day #5
 
-> Today was okay. Could be better.
+> I'm so proud of ENHYPEN! I am also still working out some issues with my blog setup... I'm not completely happy with it yet.
 
 ### 🌱 Real Life
 
@@ -25,26 +24,29 @@ tocPosition = "inner"
 
 #### Professional Development
 
-* **Study:**  D204 Exam
+* **Study:**  D204 Exam - I'm taking it today regardless.
 
         Hours today: 0h
         Hours total: 0h
-* **Code:**  N/A
-* **Work:**  N/A
+<div class="study-light-grey study-round-large">
+  <div class="study-container study-red study-center" style="width:1%">1%</div>
+</div>
+* **Code:**  .
+* **Work:**  .
 
 #### Personal Development
 
-* **Piano:**  Played all the book songs in my songs list and worked on beginning of one new song.
-* **Art:**  N/A
-* **Health:**  Went for a walk in the morning. Logged meals but did not stick to calorie budget.
+* **Piano:**  .
+* **Art:**  .
+* **Health:**  .
 
 ### 👽 Virtual Life
 
 ***
 
-* **Games:**  Still no capacity for gaming right now.
-* **K-Variety:**  Continue watching Heart Signal 2, but maybe that's a bad decision?
+* **Games:**  .
+* **K-Variety:**  .
 
 #### Next Steps
 
-> Tomorrow I want to _actually_ spend time studying for my upcoming exam (rescheduled - again). I also hope to balance my time better and limit my social media use.
+> .
