@@ -28,18 +28,6 @@ tocPosition = "inner"
 
         Hours today: 0h
         Hours total: 0h
-
-<html>
-<body>
-<div class="study-light-grey study-round-large">
-<div class="study-container study-red study-center" style="width:1%">1%</div>
-</div>
-</body>
-</html>
-
-
-😸😸😸
-
 * **Code:**  .
 * **Work:**  .
 
