@@ -1,0 +1,43 @@
+---
+label: Post Format
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: text
+  name: authorEmoji
+  label: authorEmoji
+- type: list
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: enableToc
+  label: enableToc
+- type: boolean
+  name: enableTocContent
+  label: enableTocContent
+- type: boolean
+  name: hideToc
+  label: hideToc
+- type: text
+  name: image
+  label: image
+- type: text
+  name: series
+  label: series
+- type: text
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: text
+  name: tocPosition
+  label: tocPosition
