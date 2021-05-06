@@ -2,7 +2,7 @@
 author = "meowgix"
 authorEmoji = "😸"
 categories = ["blog"]
-date = 2021-05-03T03:20:13Z
+date = 2021-05-05T03:20:13Z
 description = "Fourth day, uploading late."
 enableToc = true
 enableTocContent = true
@@ -14,7 +14,7 @@ title = "This is difficult."
 tocPosition = "inner"
 
 +++
-## Day #4
+## Day #5
 
 > Today was okay. Could be better.
 
@@ -24,7 +24,7 @@ tocPosition = "inner"
 
 #### Professional Development
 
-* **Study:**  D204 Exam
+* **Study:**  Passed D204 - Started D205
 
         Hours today: 0h
         Hours total: 0h
@@ -33,17 +33,17 @@ tocPosition = "inner"
 
 #### Personal Development
 
-* **Piano:**  Played all the book songs in my songs list and worked on beginning of one new song.
+* **Piano:**  Practiced new song.
 * **Art:**  N/A
-* **Health:**  Went for a walk in the morning. Logged meals but did not stick to calorie budget.
+* **Health:**  Went for a walk in the evening.
 
 ### 👽 Virtual Life
 
 ***
 
 * **Games:**  Still no capacity for gaming right now.
-* **K-Variety:**  Continue watching Heart Signal 2, but maybe that's a bad decision?
+* **K-Variety:**  N/A
 
 #### Next Steps
 
-> Tomorrow I want to _actually_ spend time studying for my upcoming exam (rescheduled - again). I also hope to balance my time better and limit my social media use.
+> N/A
