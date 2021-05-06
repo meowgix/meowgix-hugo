@@ -14,7 +14,7 @@ title = "This is difficult."
 tocPosition = "inner"
 
 +++
-## Day #5
+## Day #4
 
 > Today was okay. Could be better.
 
@@ -24,7 +24,7 @@ tocPosition = "inner"
 
 #### Professional Development
 
-* **Study:**  Passed D204 - Started D205
+* **Study:**  D204
 
         Hours today: 0h
         Hours total: 0h
