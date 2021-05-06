@@ -24,7 +24,7 @@ tocPosition = "inner"
 
 #### Professional Development
 
-* **Study:**  D204 Exam - I'm taking it today regardless.
+* **Study:**  Passed D204 - Started D205.
 
         Hours today: 0h
         Hours total: 0h
