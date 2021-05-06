@@ -2,8 +2,8 @@
 author = "meowgix"
 authorEmoji = "😸"
 categories = ["blog"]
-date = 2021-05-03T03:20:13Z
-description = "Fourth day, uploading late."
+date = 2021-05-06T03:20:13Z
+description = "Can't seem to stay focused. I need a routine."
 draft = true
 enableToc = true
 enableTocContent = true
@@ -15,9 +15,9 @@ title = "Lost and Confused"
 tocPosition = "inner"
 
 +++
-## Day #4
+## Day #6
 
-> Today was okay. Could be better.
+> Today was unproductive, honestly.
 
 ### 🌱 Real Life
 
@@ -25,7 +25,7 @@ tocPosition = "inner"
 
 #### Professional Development
 
-* **Study:**  D204 Exam
+* **Study:**  D205
 
         Hours today: 0h
         Hours total: 0h
@@ -34,17 +34,17 @@ tocPosition = "inner"
 
 #### Personal Development
 
-* **Piano:**  Played all the book songs in my songs list and worked on beginning of one new song.
-* **Art:**  N/A
-* **Health:**  Went for a walk in the morning. Logged meals but did not stick to calorie budget.
+* **Piano:**  Practiced playing new song.
+* **Art:**  Did a bit of doodling/sketching. Nothing serious.
+* **Health:**  Went for a walk. Logged meals but need to improve nutritional quality.
 
 ### 👽 Virtual Life
 
 ***
 
 * **Games:**  Still no capacity for gaming right now.
-* **K-Variety:**  Continue watching Heart Signal 2, but maybe that's a bad decision?
+* **K-Variety:**  Kingdom: The Legendary War
 
 #### Next Steps
 
-> Tomorrow I want to _actually_ spend time studying for my upcoming exam (rescheduled - again). I also hope to balance my time better and limit my social media use.
+> I'm excited and nervous about my appointment tomorrow. I need to wake up at a good time and have a nice breakfast. I want to study and continue with the coding curriculum. Prepare questions for the webinar.
