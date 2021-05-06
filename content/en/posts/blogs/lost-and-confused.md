@@ -4,7 +4,6 @@ authorEmoji = "😸"
 categories = ["blog"]
 date = 2021-05-06T03:20:13Z
 description = "Can't seem to stay focused. I need a routine."
-draft = true
 enableToc = true
 enableTocContent = true
 hideToc = false
