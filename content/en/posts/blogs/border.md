@@ -2,9 +2,8 @@
 author = "meowgix"
 authorEmoji = "😸"
 categories = ["blog"]
-date = 2021-05-06T03:20:13Z
-description = "Can't seem to stay focused. I need a routine."
-draft = true
+date = 2021-05-08T03:20:13Z
+description = "Pretty much same stuff, different day."
 enableToc = true
 enableTocContent = true
 hideToc = false
@@ -15,9 +14,9 @@ title = "Border"
 tocPosition = "inner"
 
 +++
-## Day #6
+## Day #7
 
-> Today was unproductive, honestly.
+> Today was just okay.
 
 ### 🌱 Real Life
 
@@ -25,7 +24,7 @@ tocPosition = "inner"
 
 #### Professional Development
 
-* **Study:**  D205
+* **Study:**  D205 - Ha... 
 
         Hours today: 0h
         Hours total: 0h
@@ -34,17 +33,17 @@ tocPosition = "inner"
 
 #### Personal Development
 
-* **Piano:**  Practiced playing new song.
-* **Art:**  Did a bit of doodling/sketching. Nothing serious.
-* **Health:**  Went for a walk. Logged meals but need to improve nutritional quality.
+* **Piano:**  Practiced playing new song. Still need to work on second half.
+* **Art:**  Worked on lineart for a Twitch emote. Also practiced drawabox homework.
+* **Health:**  Went for a short walk, but didn't meet my step goal.
 
 ### 👽 Virtual Life
 
 ***
 
-* **Games:**  Still no capacity for gaming right now.
-* **K-Variety:**  Kingdom: The Legendary War
+* **Games:**  Played a few minutes of Sims 4 and Maple. PS4 not working so...
+* **K-Variety/K-Drama:**  Finished episode 17 of Mouse. Trying to find Spring Camp with English subtitles.
 
 #### Next Steps
 
-> I'm excited and nervous about my appointment tomorrow. I need to wake up at a good time and have a nice breakfast. I want to study and continue with the coding curriculum. Prepare questions for the webinar.
+> Next steps are to continue what I am doing well, but add on and tweak things to be more sustainable. I know I am capable of being more productive, but I have to put in more effort to get organized and to time-block.
