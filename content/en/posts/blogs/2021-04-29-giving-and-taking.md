@@ -10,7 +10,7 @@ hideToc = false
 image = ""
 series = ""
 tags = ""
-title = "Given or Taken"
+title = "Day #1"
 tocPosition = "outer"
 
 +++
