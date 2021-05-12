@@ -2,7 +2,7 @@
 author = "meowgix"
 authorEmoji = "😸"
 categories = ["blog"]
-date = 2021-05-04T13:00:00Z
+date = 2021-05-05T13:00:00Z
 description = "Hmm..."
 enableToc = true
 enableTocContent = true
@@ -10,7 +10,7 @@ hideToc = false
 image = ""
 series = ""
 tags = ""
-title = "ENHYPEN - First Win"
+title = "Day #5"
 tocPosition = "inner"
 
 +++
