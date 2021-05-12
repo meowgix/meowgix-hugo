@@ -10,7 +10,7 @@ hideToc = false
 image = ""
 series = ""
 tags = ""
-title = "This is difficult."
+title = "Day #4"
 tocPosition = "inner"
 
 +++
