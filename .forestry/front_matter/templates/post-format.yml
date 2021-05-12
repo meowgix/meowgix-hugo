@@ -41,3 +41,5 @@ fields:
 - type: text
   name: tocPosition
   label: tocPosition
+pages:
+- content/en/posts/blogs/day-8.md
