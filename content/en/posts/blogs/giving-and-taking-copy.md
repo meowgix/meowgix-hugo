@@ -10,7 +10,7 @@ hideToc = false
 image = ""
 series = ""
 tags = ""
-title = "Dazed Dazed Dazed"
+title = "Day #2"
 tocPosition = "outer"
 
 +++
