@@ -10,7 +10,7 @@ hideToc = false
 image = ""
 series = ""
 tags = ""
-title = "Lost and Confused"
+title = "Day #6"
 tocPosition = "inner"
 
 +++
