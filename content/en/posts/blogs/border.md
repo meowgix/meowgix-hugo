@@ -2,7 +2,7 @@
 author = "meowgix"
 authorEmoji = "😸"
 categories = ["blog"]
-date = 2021-05-08T03:00:00Z
+date = 2021-05-09T03:00:00Z
 description = "Pretty much same stuff, different day."
 enableToc = true
 enableTocContent = true
@@ -10,13 +10,13 @@ hideToc = false
 image = ""
 series = ""
 tags = ""
-title = "Border"
+title = "Day #7"
 tocPosition = "inner"
 
 +++
 ## Day #7
 
-> Today was just okay.
+> Hmm.
 
 ### 🌱 Real Life
 
@@ -24,7 +24,7 @@ tocPosition = "inner"
 
 #### Professional Development
 
-* **Study:**  D205 - Ha... 
+* **Study:**  ???
 
         Hours today: 0h
         Hours total: 0h
@@ -33,16 +33,16 @@ tocPosition = "inner"
 
 #### Personal Development
 
-* **Piano:**  Practiced playing new song. Still need to work on second half.
-* **Art:**  Worked on lineart for a Twitch emote. Also practiced drawabox homework.
-* **Health:**  Went for a short walk, but didn't meet my step goal.
+* **Piano:**  N/A
+* **Art:**  N/A
+* **Health:**  N/A
 
 ### 👽 Virtual Life
 
 ***
 
-* **Games:**  Played a few minutes of Sims 4 and Maple. PS4 not working so...
-* **K-Variety/K-Drama:**  Finished episode 17 of Mouse. Trying to find Spring Camp with English subtitles.
+* **Games:**  N/A
+* **K-Variety/K-Drama:**  N/A
 
 #### Next Steps
 
