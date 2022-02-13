@@ -18,7 +18,7 @@ tocPosition = ""
 
 > There is something poetic about reading the last blog I posted, over 9 months ago. I wrote down that it was difficult getting this off the ground, and just like that - POOF. I disappeared.
 >
-> I wish to return and try this again. It would be a great help in getting my feet off the ground and making more progress, if I could actually track the changes as they are happening.  
+> I wish to return and try this again. It would be a great help in getting myself started and making more progress, if I could actually track the changes as they are happening.
 
 ### 🌱 Real Life
 
